@@ -40,6 +40,7 @@ confusion matrix for old model:
 
 
 **** KNN ****
+
 printing old classification report: 
 
               precision    recall  f1-score   support
@@ -60,6 +61,7 @@ confusion matrix for old model:
 
 
 **** Random forest ****
+
 printing old classification report: 
 
               precision    recall  f1-score   support
@@ -80,6 +82,7 @@ confusion matrix for old model:
 
 
 **** Logistic regression ****
+
 printing old classification report: 
 
               precision    recall  f1-score   support
@@ -101,6 +104,7 @@ confusion matrix for old model:
 
 
 **** Naive Bayse ****
+
 printing old classification report: 
 
               precision    recall  f1-score   support
@@ -121,6 +125,7 @@ confusion matrix for old model:
 
 
 **** GB ****
+
 printing old classification report: 
 
               precision    recall  f1-score   support
@@ -141,6 +146,7 @@ confusion matrix for old model:
 
 
 **** Decision Tree ****
+
 printing old classification report: 
 
               precision    recall  f1-score   support
