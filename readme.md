@@ -81,6 +81,7 @@ confusion matrix for old model:
 
 **** Logistic regression ****
 printing old classification report: 
+
               precision    recall  f1-score   support
 
            0       0.97      0.98      0.98      1191
@@ -101,6 +102,7 @@ confusion matrix for old model:
 
 **** Naive Bayse ****
 printing old classification report: 
+
               precision    recall  f1-score   support
 
            0       1.00      0.01      0.01      1191
@@ -120,6 +122,7 @@ confusion matrix for old model:
 
 **** GB ****
 printing old classification report: 
+
               precision    recall  f1-score   support
 
            0       0.97      0.98      0.97      1191
@@ -139,6 +142,7 @@ confusion matrix for old model:
 
 **** Decision Tree ****
 printing old classification report: 
+
               precision    recall  f1-score   support
 
            0       0.95      0.95      0.95      1191
@@ -160,6 +164,7 @@ confusion matrix for old model:
 **** AdaBoost ****
 
 printing old classification report: 
+
               precision    recall  f1-score   support
 
            0       0.95      0.98      0.96      1191
